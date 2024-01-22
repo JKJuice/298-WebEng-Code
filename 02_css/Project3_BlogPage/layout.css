@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+}
+
+h1, p {
+    font-family: "Poppins";
+}
+
+body {
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Open Sans", sans-serif;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    content: url("https://cdn.britannica.com/83/126383-050-38B8BE25/Michael-Phelps-American-Milorad-Cavic-final-Serbia-2008.jpg");
+}
